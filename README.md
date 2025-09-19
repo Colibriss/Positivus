@@ -11,4 +11,4 @@ Positivus Landing Page - aдаптивний лендинг для цифров�
 
 🌐 Демо
 
-🔗 [Сторінка на GitHub Pages] 
+🔗 [Сторінка на GitHub Pages] https://colibriss.github.io/Positivus/
